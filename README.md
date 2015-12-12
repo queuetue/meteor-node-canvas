@@ -1,1 +1,2 @@
-= Node Canvas package for Meteor
+Node Canvas package for Meteor
+==============================
